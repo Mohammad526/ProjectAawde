@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace FormsProject
 {
-    public partial class Peoples : System.Windows.Forms.Form
+    public partial class FormFace : Form
     {
-        public Peoples()
+        public FormFace()
         {
             InitializeComponent();
-        }
-
-        private void Peoples_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }

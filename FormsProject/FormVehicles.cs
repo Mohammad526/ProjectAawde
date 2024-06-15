@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace FormsProject
 {
-    public partial class FormVehicles : Form
+    public partial class FormVehicles : System.Windows.Forms.Form
     {
         public FormVehicles()
         {
